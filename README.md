@@ -1,4 +1,9 @@
-## Hi, I am Oscar Nava 👨🏽‍💻
+<div align="center">
+  <h2>Hola, soy Oscar Nava 👨‍💻</h2>
+  <p>Soy estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de la Sierra, apasionado por el desarrollo de software, ciberseguridad e IA.</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100000,100:3776AB&height=200&section=header&text=Oscar%20Nava&fontSize=70&fontAlignY=35&desc=Software%20Developer%20|%20AI%20|%20Ciberseguridad&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
 
 Soy estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apasionado por el desarrollo de software, ciberseguridad e IA.
 
