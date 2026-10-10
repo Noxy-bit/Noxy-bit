@@ -1,6 +1,6 @@
-## Hi, I am Oscar Nava 👋
+## Hi, I am Oscar Nava 👨🏽‍💻
 
-Ser estudiante de Ingeniería en la FICCT (UAGRM) en Bolivia, apasionado por el desarrollo de software y la IA.
+Ser estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apasionado por el desarrollo de software, ciberseguridad e IA.
 
 ### 🛠️ Tecnologías y Herramientas
 
