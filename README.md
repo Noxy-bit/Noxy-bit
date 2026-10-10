@@ -25,7 +25,7 @@ Soy estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apa
 * Investigando startups basadas en datos
 * Integrando flujos con asistencia de IA
 
-### 🤝 Conectemos
+### 🤝 Mis redes sociales
 
 <p>
   <a href="https://github.com/Noxy-bit">
@@ -36,6 +36,18 @@ Soy estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apa
   </a>
   <a href="mailto:noxycmd@gmail.com">
     <img src="https://img.shields.io/badge/noxycmd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.tiktok.com/@noxy_study" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <!-- Insignia de Facebook -->
+  <a href="https://www.facebook.com/https://www.facebook.com/share/19XgmbiCek/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <!-- Insignia de WhatsApp -->
+  <a href="https://wa.me/59167678282" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
