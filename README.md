@@ -2,7 +2,7 @@
 
 Soy estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apasionado por el desarrollo de software, ciberseguridad e IA.
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y mi Herramientas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,6 +21,8 @@ Soy estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apa
 
 ### 🌱 ¿En qué ando últimamente?
 
+* Relizando practicas en Ciberseguridad
+* Mejorando mi Ingles 
 * Participando en Hackathons
 * Investigando startups basadas en datos
 * Integrando flujos con asistencia de IA
