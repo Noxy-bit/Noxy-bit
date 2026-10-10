@@ -1,6 +1,6 @@
 ## Hi, I am Oscar Nava 👨🏽‍💻
 
-Ser estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apasionado por el desarrollo de software, ciberseguridad e IA.
+Soy estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apasionado por el desarrollo de software, ciberseguridad e IA.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -15,6 +15,8 @@ Ser estudiante de Ingeniería en la FICCT (UAGRM) en Santa Cruz de a Sierra, apa
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code%2FCursor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code/Cursor" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Pascal-02569B?style=for-the-badge&logoColor=white" alt="Pascal" />
 </p>
 
 ### 🌱 ¿En qué ando últimamente?
