@@ -54,8 +54,7 @@
 <h3>📈 Actividad y Estadísticas</h3>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Noxy-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3776AB&icon_color=3776AB" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxy-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3776AB" />
+  <img src="https://streak-stats.demolab.com?user=Noxy-bit&theme=tokyonight&hide_border=true&background=0D1117&ring=3776AB&fire=3776AB&currStreakLabel=3776AB" alt="GitHub Streak" />
 </div>
 
 <h3>🤝 Contacto y Redes Sociales</h3>
