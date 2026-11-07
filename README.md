@@ -6,22 +6,34 @@
   </a>
 
   <p>Estudiante de Ingeniería Informática en la <b>FICCT (UAGRM)</b> en Santa Cruz de la Sierra, enfocado en desarrollo de software, ciberseguridad e inteligencia artificial.</p>
+
+  <p>
+    <a href="https://noxy-bit.github.io/portafolio-noxy/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portafolio_Web-3776AB?style=for-the-badge&logoColor=white" alt="Portafolio" />
+    </a>
+    <a href="https://orcid.org/0009-0001-0485-3030" target="_blank">
+      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+    </a>
+    <a href="https://x.com/Noxycmd" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+  </p>
 </div>
 
-### 🛠️ Tecnologías y Herramientas
+<h3>🛠️ Tecnologías y Herramientas</h3>
 
-**Lenguajes**
+<b>Lenguajes</b>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Pascal-02569B?style=for-the-badge&logoColor=white" alt="Pascal" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-**Cloud, Bases de Datos y Entorno**
+<b>Cloud, Bases de Datos y Entorno</b>
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -31,20 +43,24 @@
   <img src="https://img.shields.io/badge/VS%20Code%20%2F%20Cursor-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code/Cursor" />
 </p>
 
-### 🚀 ¿En qué ando últimamente?
+<h3>🚀 ¿En qué ando últimamente?</h3>
 
-- 🛡️ **Ciberseguridad:** Realizando prácticas e investigación aplicada en seguridad informática.
-- 🤖 **Inteligencia Artificial:** Integrando flujos automatizados y agentes con asistencia de IA.
-- 🏆 **Competencias Tech:** Participando activamente en hackathons y desarrollando prototipos.
-- 📊 **Innovación y Datos:** Investigando arquitecturas y modelos de startups basadas en datos.
-- 🌐 **Crecimiento Continuo:** Perfeccionando mi inglés técnico para entornos globales.
+- 🛡️ <b>Ciberseguridad:</b> Realizando prácticas e investigación aplicada en seguridad informática.
+- 🤖 <b>Inteligencia Artificial:</b> Integrando flujos automatizados y agentes con asistencia de IA.
+- 🏆 <b>Competencias Tech:</b> Participando activamente en hackathons y desarrollando prototipos.
+- 📊 <b>Innovación y Datos:</b> Investigando arquitecturas y modelos de startups basadas en datos.
+- 🌐 <b>Crecimiento Continuo:</b> Perfeccionando mi inglés técnico para entornos globales.
 
-### 🤝 Portafolio y Redes Sociales
+<h3>📈 Actividad y Estadísticas</h3>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Noxy-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3776AB&icon_color=3776AB" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxy-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3776AB" />
+</div>
+
+<h3>🤝 Contacto y Redes Sociales</h3>
 
 <p>
-  <a href="https://noxy-bit.github.io/portafolio-noxy/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio_Web-3776AB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
-  </a>
   <a href="mailto:noxycmd@gmail.com">
     <img src="https://img.shields.io/badge/noxycmd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -63,3 +79,5 @@
 </p>
 
 > *"Pequeños pasos consistentes llevan a grandes cambios."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100000,100:3776AB&height=100&section=footer" width="100%" />
