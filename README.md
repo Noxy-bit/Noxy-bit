@@ -55,6 +55,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Noxy-bit&theme=tokyonight&hide_border=true&background=0D1117&ring=3776AB&fire=3776AB&currStreakLabel=3776AB" alt="GitHub Streak" />
+  <a href="https://www.duolingo.com" target="_blank">
+  <img src="https://img.shields.io/badge/Duolingo_Streak-🔥_Racha_Activa-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Streak" />
+</a>
+  <a href="https://tiktok.com/@noxycmd" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok_@noxycmd-📺_Contenido_Tech-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Noxycmd" />
+</a>
 </div>
 
 <h3>🤝 Contacto y Redes Sociales</h3>
